@@ -18,11 +18,8 @@ Live demo hosted on Netlify:
 - 4-day weather forecast  
 - Dynamic weather icons  
 - Responsive design  
-- Background image changes based on weather (optional)  
+  
 
----
-
- 
 
 ---
 
@@ -35,10 +32,4 @@ Live demo hosted on Netlify:
 
 ---
 
-## **Getting Started Locally**
-
-1. Clone the repository or download the ZIP  
-2. Install dependencies (if using Vite):  
-
-```bash
-npm install
+ 
