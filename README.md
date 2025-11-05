@@ -31,5 +31,7 @@ Live demo hosted on Netlify:
 - OpenWeatherMap API  
 
 ---
+## Author 
+-[Kalyani](https://github.com/Kalyani-377)
 
  
